@@ -1,71 +1,104 @@
 <div align="center">
 
 ```
-███████╗██╗  ██╗██╗███╗   ██╗██████╗ ███████╗██╗   ██╗██╗   ██╗
-██╔════╝██║  ██║██║████╗  ██║██╔══██╗██╔════╝██║   ██║██║   ██║
-███████╗███████║██║██╔██╗ ██║██║  ██║█████╗  ██║   ██║██║   ██║
-╚════██║██╔══██║██║██║╚██╗██║██║  ██║██╔══╝  ╚██╗ ██╔╝╚██╗ ██╔╝
-███████║██║  ██║██║██║ ╚████║██████╔╝███████╗ ╚████╔╝  ╚████╔╝ 
-╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝  ╚═══╝    ╚═══╝  
+ ██████╗██╗  ██╗███████╗███╗   ██╗ ██████╗ ██████╗ ██████╗ ███████╗███████╗
+██╔════╝██║  ██║╚══███╔╝████╗  ██║██╔════╝██╔═══██╗██╔══██╗██╔════╝╚══███╔╝
+╚█████╗ ███████║  ███╔╝ ██╔██╗ ██║██║     ██║   ██║██║  ██║█████╗    ███╔╝ 
+ ╚═══██╗██╔══██║ ███╔╝  ██║╚██╗██║██║     ██║   ██║██║  ██║██╔══╝   ███╔╝  
+██████╔╝██║  ██║███████╗██║ ╚████║╚██████╗╚██████╔╝██████╔╝███████╗███████╗
+╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚══════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%E2%80%A2+Flask+%E2%80%A2+Node.js;Building+scalable+bots+%26+clean+web+apps" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Simple+websites%2C+affordable+prices.;Perfect+for+portfolios+%26+school+projects.;Perfect+for+small+businesses+too.)](https://git.io/typing-svg)
+
+```
+[ DEVELOPER // PHILIPPINES ]
+```
+
+<a href="#projects">[ view projects ]</a>&nbsp;&nbsp;<a href="#contact">[ get in touch ]</a>
+
+![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 </div>
 
-<br>
+## [ ABOUT ]
 
 ```
 > whoami
-Ryan Alex (@ShinDevv)
+shzncodez -- builds clean, functional websites and tools
+            at prices that make sense.
 
-> role
-Full Stack Developer
-
-> stack
-Python • Flask • Node.js • PostgreSQL • Discord.js
-
-> status
-Building scalable bots and clean web applications...
+> use_cases
+  - personal portfolios
+  - school / capstone projects
+  - small business websites
 ```
+
+---
+
+## [ PROJECTS ]
+
+```
++------------------------------------------------------------+
+|  ManghiPay                          [ BEST IN INNOVATION ] |
++------------------------------------------------------------+
+```
+A digital platform that makes school payments faster and easier
+for students -- reducing long cashier lines and streamlining the
+entire payment process.
+
+`C#` `ASP.NET` `MsSQL` `HTML` `CSS`
+
+```
++------------------------------------------------------------+
+|  Assistify PH Agency                                       |
++------------------------------------------------------------+
+```
+A webpage for Assistify PH Agency, a company providing virtual
+assistant services.
+
+`HTML` `CSS` `JavaScript`
+link :: [assistifyphagency.com](https://assistifyphagency.com/)
+
+```
++------------------------------------------------------------+
+|  Rain RStore Discord Bot                                   |
++------------------------------------------------------------+
+```
+A Discord bot for Rain RStore featuring a web-based authentication
+system and a full order system -- letting customers verify their
+account and place orders without ever leaving Discord.
+
+`Node.js` `HTML` `CSS` `PostgreSQL`
+link :: [auth.ashurobux.store](https://auth.ashurobux.store/)
+
+![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+## [ STACK ]
+
+```
+Languages ............ HTML, CSS, JavaScript, C#
+Frameworks/Runtime .... Node.js, ASP.NET
+Databases ............. PostgreSQL, MsSQL
+Hosting/Deployment .... Render, Vercel, Hostinger
+Tools/Workflow ........ Git, GitHub
+AI Tools .............. ChatGPT, Claude, Cursor
+```
+
+---
+
+## [ CONTACT ]
 
 <div align="center">
 
 ```
-  /\_/\
- ( o.o )
-  > ^ <
+> let's build something together
 ```
 
-</div>
+site :: [ryxn.fun](https://ryxn.fun)
 
-<br>
+![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-<div align="center">
-
-### 🛠️ Tech stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-
-<br>
-
-### 📊 GitHub stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShinDevv&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShinDevv&theme=radical&hide_border=true" alt="GitHub streak" width="48%" />
-
-<br><br>
-
-### 🌐 Connect with me
-
-[![Discord](https://img.shields.io/badge/Discord-@ShinDevv-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-
-<br>
-
-![Profile views](https://komarev.com/ghpvc/?username=ShinDevv&color=00ffaa&style=for-the-badge&label=PROFILE+VIEWS)
+`(c) 2026 shzncodez`
 
 </div>
