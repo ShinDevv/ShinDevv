@@ -36,43 +36,6 @@ shzncodez -- builds clean, functional websites and tools
 
 ---
 
-## [ PROJECTS ]
-
-```
-+------------------------------------------------------------+
-|  ManghiPay                          [ BEST IN INNOVATION ] |
-+------------------------------------------------------------+
-```
-A digital platform that makes school payments faster and easier
-for students -- reducing long cashier lines and streamlining the
-entire payment process.
-
-`C#` `ASP.NET` `MsSQL` `HTML` `CSS`
-
-```
-+------------------------------------------------------------+
-|  Assistify PH Agency                                       |
-+------------------------------------------------------------+
-```
-A webpage for Assistify PH Agency, a company providing virtual
-assistant services.
-
-`HTML` `CSS` `JavaScript`
-link :: [assistifyphagency.com](https://assistifyphagency.com/)
-
-```
-+------------------------------------------------------------+
-|  Rain RStore Discord Bot                                   |
-+------------------------------------------------------------+
-```
-A Discord bot for Rain RStore featuring a web-based authentication
-system and a full order system -- letting customers verify their
-account and place orders without ever leaving Discord.
-
-`Node.js` `HTML` `CSS` `PostgreSQL`
-link :: [auth.ashurobux.store](https://auth.ashurobux.store/)
-
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 ## [ STACK ]
 
