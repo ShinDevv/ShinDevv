@@ -62,6 +62,8 @@ site :: [ryxn.fun](https://ryxn.fun)
 
 ![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ShinDevv&layout=donut&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=ShinDevv&layout=donut&langs_count=4&theme=transparent)
+
 `(c) 2026 shzncodez`
 
 </div>
